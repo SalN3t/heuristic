@@ -1,0 +1,295 @@
+n value:  6
+goal  AAAAAABBBBBBE
+Random Generated Configurations
+['EBBBBBBAAAAAA', 'AABEABABAABBB', 'BAAAEBABBABAB', 'AAAABAEABBBBB', 'AABBAAABBEABB', 'AAAABBBBABABE', 'ABBAAEABBBAAB', 'AABBAAAABBBEB', 'AEBBAABBAAABB', 'BABABAAABEABB', 'BAABAABBABABE', 'BAAABBABEABAB']
+========================================
+State to Test:  EBBBBBBAAAAAA
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAABBEBABBB', 'AAAAEBBABABBB', 'AAEAABBABABBB', 'AABAAEBABABBB', 'AABAEABABABBB', 'AABABAEABABBB', 'AABABABAEABBB', 'AABABABABABEB', 'AABABABABEBAB', 'AABABABEBABAB', 'AABABEBABABAB', 'AABEBABABABAB', 'EABABABABABAB', 'BAEABABABABAB', 'BABAEABABABAB', 'BABABAEABABAB', 'BABABABAEABAB', 'BABABABABAEAB', 'BABABABABABAE', 'BABABABABEBAA', 'BABABABEBABAA', 'BABABEBABABAA', 'BABEBABABABAA', 'BEBABABABABAA', 'BBBAEABABABAA', 'BBBABAEABABAA', 'BBBABABAEABAA', 'BBBABABABAEAA', 'BBBABABEBAAAA', 'BBBABEBABAAAA', 'BBBABBBAEAAAA', 'BBBABBBEAAAAA', 'BBBEBBBAAAAAA', 'EBBBBBBAAAAAA']
+Cost:  925
+Total Nodes:  317887
+Effective Branching Factor:  1.42180785824
+--- 281.38078 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAABBEBABBB', 'AAAAEBBABABBB', 'AAEAABBABABBB', 'AABAAEBABABBB', 'AABAEABABABBB', 'AABABAEABABBB', 'AABABABAEABBB', 'AABABABABABEB', 'AABABABABEBAB', 'AABABABEBABAB', 'AABABEBABABAB', 'AABEBABABABAB', 'EABABABABABAB', 'BAEABABABABAB', 'BABAEABABABAB', 'BABABAEABABAB', 'BABABABAEABAB', 'BABABABABAEAB', 'BABABABABABAE', 'BABABABABEBAA', 'BABABABEBABAA', 'BABABEBABABAA', 'BABEBABABABAA', 'BEBABABABABAA', 'BBBAEABABABAA', 'BBBABAEABABAA', 'BBBABABAEABAA', 'BBBABABABAEAA', 'BBBABABEBAAAA', 'BBBABABBEAAAA', 'BBBABEBBAAAAA', 'BBBABBBEAAAAA', 'BBBEBBBAAAAAA', 'EBBBBBBAAAAAA']
+Cost:  925
+Total Nodes:  249364
+Effective Branching Factor:  1.41225151328
+--- 238.31850 seconds ---
+
+
+========================================
+State to Test:  AABEABABAABBB
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAABEBBABBB', 'AAAEABABBABBB', 'AAABAEABBABBB', 'AAABABABEABBB', 'AAABABEBAABBB', 'AAABEBABAABBB', 'AAEBABABAABBB', 'AABEABABAABBB']
+Cost:  70
+Total Nodes:  45755
+Effective Branching Factor:  2.9244476798
+--- 32.21525 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAABEBBABBB', 'AAAEABABBABBB', 'AAABAEABBABBB', 'AAABABABEABBB', 'AAABABEBAABBB', 'AAABEBABAABBB', 'AAEBABABAABBB', 'AABEABABAABBB']
+Cost:  70
+Total Nodes:  17279
+Effective Branching Factor:  2.6530892534
+--- 8.44972 seconds ---
+
+
+========================================
+State to Test:  BAAAEBABBABAB
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAABEBBABBB', 'AAAEABABBABBB', 'AAABAEABBABBB', 'AAABABABEABBB', 'AAABABABBABEB', 'AAABABABBEBAB', 'AAABABEBBABAB', 'AAABEBABBABAB', 'AAEBABABBABAB', 'EAABABABBABAB', 'BAAEABABBABAB', 'BAAAEBABBABAB']
+Cost:  149
+Total Nodes:  133596
+Effective Branching Factor:  2.32342203559
+--- 99.40399 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAEAABBBABBB', 'AAABAAEBBABBB', 'AAABAABBEABBB', 'AAABAABBBABEB', 'AAABAABBBEBAB', 'AAABAEBBBABAB', 'AAABABEBBABAB', 'AAABEBABBABAB', 'AAEBABABBABAB', 'EAABABABBABAB', 'BAAEABABBABAB', 'BAAAEBABBABAB']
+Cost:  149
+Total Nodes:  78332
+Effective Branching Factor:  2.23649064962
+--- 52.63439 seconds ---
+
+
+========================================
+State to Test:  AAAABAEABBBBB
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAABEBBBBB', 'AAAAEABABBBBB', 'AAAABAEABBBBB']
+Cost:  14
+Total Nodes:  887
+Effective Branching Factor:  5.45733865759
+--- 0.18822 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAABEBBBBB', 'AAAAEABABBBBB', 'AAAABAEABBBBB']
+Cost:  14
+Total Nodes:  391
+Effective Branching Factor:  4.44676510885
+--- 0.08763 seconds ---
+
+
+========================================
+State to Test:  AABBAAABBEABB
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAABEBBABBB', 'AAAAEBABBABBB', 'AAEAABABBABBB', 'AABAAEABBABBB', 'AABEAAABBABBB', 'AABBAAAEBABBB', 'AABBAAABBAEBB', 'AABBAAABBEABB']
+Cost:  91
+Total Nodes:  71456
+Effective Branching Factor:  3.05776334429
+--- 45.02898 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAEAABBBABBB', 'AAABAAEBBABBB', 'AAABEAABBABBB', 'AAEBAAABBABBB', 'AABEAAABBABBB', 'AABBAAAEBABBB', 'AABBAAABBAEBB', 'AABBAAABBEABB']
+Cost:  89
+Total Nodes:  31227
+Effective Branching Factor:  2.81483554357
+--- 16.33184 seconds ---
+
+
+========================================
+State to Test:  AAAABBBBABABE
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAABBEBABBB', 'AAAAEBBABABBB', 'AAAABBEABABBB', 'AAAABBBAEABBB', 'AAAABBBEAABBB', 'AAAABBBBAAEBB', 'AAAABBBBAEABB', 'AAAABBBBABABE']
+Cost:  82
+Total Nodes:  42996
+Effective Branching Factor:  2.90631581672
+--- 22.40651 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAEABBBABBB', 'AAAABAEBBABBB', 'AAAABABBEABBB', 'AAAABEBBAABBB', 'AAAABBBEAABBB', 'AAAABBBBAAEBB', 'AAAABBBBAEABB', 'AAAABBBBABABE']
+Cost:  84
+Total Nodes:  12601
+Effective Branching Factor:  2.57063550227
+--- 5.51640 seconds ---
+
+
+========================================
+State to Test:  ABBAAEABBBAAB
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBBEBB', 'AAAAAABBEBBBB', 'AAAAEABBABBBB', 'AAAABAEBABBBB', 'AAAABEABABBBB', 'AAAABBAEABBBB', 'AAAABBABAEBBB', 'AAAABBABABBEB', 'AAAABBABEBBAB', 'AAAABBABBBEAB', 'AAAABBEBBBAAB', 'AAAEBBABBBAAB', 'AEAABBABBBAAB', 'ABAAEBABBBAAB', 'ABEAABABBBAAB', 'ABBAAEABBBAAB']
+Cost:  215
+Total Nodes:  168932
+Effective Branching Factor:  2.12193460402
+--- 131.46358 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBBEBB', 'AAAAAABBEBBBB', 'AAAAEABBABBBB', 'AAAABAEBABBBB', 'AAAABEABABBBB', 'AAAABBAEABBBB', 'AAAABBABAEBBB', 'AAAABBABABBEB', 'AAAABBABEBBAB', 'AAAABBABBBEAB', 'AAAABBEBBBAAB', 'AAAEBBABBBAAB', 'AEAABBABBBAAB', 'ABAAEBABBBAAB', 'ABEAABABBBAAB', 'ABBAAEABBBAAB']
+Cost:  215
+Total Nodes:  107443
+Effective Branching Factor:  2.06275967552
+--- 80.58670 seconds ---
+
+
+========================================
+State to Test:  AABBAAAABBBEB
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAEAABBBABBB', 'AAABAAEBBABBB', 'AAABEAABBABBB', 'AAEBAAABBABBB', 'AABEAAABBABBB', 'AABBAAAEBABBB', 'AABBAAAABEBBB', 'AABBAAAABBBEB']
+Cost:  80
+Total Nodes:  45454
+Effective Branching Factor:  2.92251810813
+--- 28.43576 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAEAABBBABBB', 'AAABAAEBBABBB', 'AAABEAABBABBB', 'AAEBAAABBABBB', 'AABEAAABBABBB', 'AABBAAAEBABBB', 'AABBAAAABEBBB', 'AABBAAAABBBEB']
+Cost:  80
+Total Nodes:  15412
+Effective Branching Factor:  2.62292516606
+--- 7.53484 seconds ---
+
+
+========================================
+State to Test:  AEBBAABBAAABB
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAEABBBABBB', 'AAAABABEBABBB', 'AAAABEBABABBB', 'AAEABABABABBB', 'AABAEABABABBB', 'AABABAEABABBB', 'AABABABAEABBB', 'AABABABEAABBB', 'AABABABBAAEBB', 'AABABABBEAABB', 'AABABEBBAAABB', 'AABEBABBAAABB', 'AABBEABBAAABB', 'AEBBAABBAAABB']
+Cost:  191
+Total Nodes:  169283
+Effective Branching Factor:  2.12220989031
+--- 130.97029 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAABBEBABBB', 'AAAEABBABABBB', 'AAABAEBABABBB', 'AAABEABABABBB', 'AAABBAEABABBB', 'AAABBABAEABBB', 'AAABBABABAEBB', 'AAABBABEBAABB', 'AAABBABBEAABB', 'AAABBEBBAAABB', 'AAEBBABBAAABB', 'AABBEABBAAABB', 'AEBBAABBAAABB']
+Cost:  183
+Total Nodes:  105867
+Effective Branching Factor:  2.16263904903
+--- 77.28163 seconds ---
+
+
+========================================
+State to Test:  BABABAAABEABB
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAEAAABBBABBB', 'AABAAAEBBABBB', 'AABAEAABBABBB', 'AABABAAEBABBB', 'AABABEAABABBB', 'AABEBAAABABBB', 'EABABAAABABBB', 'BAEABAAABABBB', 'BABAEAAABABBB', 'BABABAAAEABBB', 'BABABAAABAEBB', 'BABABAAABEABB']
+Cost:  160
+Total Nodes:  162308
+Effective Branching Factor:  2.35595579557
+--- 123.08669 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAEAAABBBABBB', 'AABAAAEBBABBB', 'AABAEAABBABBB', 'AABABAAEBABBB', 'AABABEAABABBB', 'AABEBAAABABBB', 'EABABAAABABBB', 'BAEABAAABABBB', 'BABAEAAABABBB', 'BABABAAAEABBB', 'BABABAAABAEBB', 'BABABAAABEABB']
+Cost:  160
+Total Nodes:  104695
+Effective Branching Factor:  2.28331662425
+--- 72.34030 seconds ---
+
+
+========================================
+State to Test:  BAABAABBABABE
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBBEBB', 'AAAAAABBEBBBB', 'AAAAAEBBABBBB', 'AAAEAABBABBBB', 'AAABAAEBABBBB', 'AAABEAABABBBB', 'AAEBAAABABBBB', 'EAABAAABABBBB', 'BAAEAAABABBBB', 'BAABAAAEABBBB', 'BAABAAABABEBB', 'BAABAAABEBABB', 'BAABAAEBABABB', 'BAABAABBAEABB', 'BAABAABBABABE']
+Cost:  197
+Total Nodes:  156941
+Effective Branching Factor:  2.22015056244
+--- 116.36576 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBBEBB', 'AAAAAABBEBBBB', 'AAAAAEBBABBBB', 'AAAEAABBABBBB', 'AAABAAEBABBBB', 'AAABEAABABBBB', 'AAEBAAABABBBB', 'EAABAAABABBBB', 'BAAEAAABABBBB', 'BAABAAAEABBBB', 'BAABAAABABEBB', 'BAABAAABEBABB', 'BAABAAEBABABB', 'BAABAABBAEABB', 'BAABAABBABABE']
+Cost:  197
+Total Nodes:  96880
+Effective Branching Factor:  2.14988687659
+--- 65.79131 seconds ---
+
+
+========================================
+State to Test:  BAAABBABEABAB
+############################## Dijkstra... h0  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAEABBBABBB', 'AAAABABEBABBB', 'AAAABEBABABBB', 'AAEABABABABBB', 'EAAABABABABBB', 'BAAAEABABABBB', 'BAAABAEABABBB', 'BAAABEAABABBB', 'BAAABBAAEABBB', 'BAAABBAABABEB', 'BAAABBAABEBAB', 'BAAABBAEBABAB', 'BAAABBABEABAB']
+Cost:  174
+Total Nodes:  173828
+Effective Branching Factor:  2.23532829533
+--- 133.70492 seconds ---
+
+
+############################## A*... h1  	  ##############################
+############################## Misplaced 1D tiles ##############################
+
+
+Path:  ['AAAAAABBBBBBE', 'AAAAAABBBEBBB', 'AAAAAEBBBABBB', 'AAAAABEBBABBB', 'AAAAEBABBABBB', 'AAAABEABBABBB', 'AAEABAABBABBB', 'EAAABAABBABBB', 'BAAAEAABBABBB', 'BAAABAAEBABBB', 'BAAABEAABABBB', 'BAAABBAAEABBB', 'BAAABBAABABEB', 'BAAABBAABEBAB', 'BAAABBAEBABAB', 'BAAABBABEABAB']
+Cost:  179
+Total Nodes:  103828
+Effective Branching Factor:  2.15983694594
+--- 70.90480 seconds ---
+
+
+~0~~0~~0~~0~~0~~0~~0~~0~~0~~0~
+Total Time:
+--- 1840.43636 seconds ---
